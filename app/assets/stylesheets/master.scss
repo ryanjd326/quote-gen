@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+
 
 @import "bootstrap";
 
@@ -40,6 +40,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'sf_arch_rivalbold', sans-serif;
+  font-weight: bold;
 }
 
 header {
@@ -51,9 +53,11 @@ hr {
 }
 
 h1 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'sf_arch_rivalbold', sans-serif;
+  font-size: 48px;
 }
 
 h2 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'sf_arch_rivalbold_italic', sans-serif;
+  font-size: 40px;
 }
